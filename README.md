@@ -18,4 +18,3 @@ This project was done over a synthetic data set created by IBM to practice data 
 - [Scipy](https://docs.scipy.org/doc/scipy/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Lime](https://lime-ml.readthedocs.io/en/latest/)
-- [Random](https://docs.python.org/3/library/random.html)
