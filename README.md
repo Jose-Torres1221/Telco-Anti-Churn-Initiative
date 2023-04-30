@@ -1,6 +1,9 @@
 # Telco-Anti-Churn-Initiative
 Final Project for I310 D - Human Centered Data Science -=- A project by Nefarious Neural Networks
 
+## Instructions on Running the Code
+Simply run each cell sequentially. There are a couple of cells under a warning that reads “skip next cell if on Jupyter Notebooks”. Please skip those cells.
+
 ## Links to People
 - [Rory James](https://github.com/rjames187)
 - [Kareem Chavez-Escobedo](https://github.com/kareemcha)
